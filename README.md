@@ -4,10 +4,10 @@
 
 ## I'm interested in ML, Data Science and Physics!!
 
-### Connect with me:
+### Connect with me on LinkedIn:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](www.linkedin.com/in/benjamin-sanati)
+[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/benjamin-sanati)
 
 ### Languages and Tools:
 
