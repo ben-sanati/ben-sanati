@@ -6,7 +6,7 @@
 
 ### Connect with me on LinkedIn:
 
-[![LinkedIn](./img/linkedin-light.svg)](www.linkedin.com/in/benjamin-sanati)
+[![LinkedIn](./img/linkedin-dark.svg)](www.linkedin.com/in/benjamin-sanati)
 
 ### Languages and Tools:
 
