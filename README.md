@@ -1,10 +1,10 @@
-# Hi there 👋 <br /> I'm Ben, a 3rd year MEng Electronic Engineering with AI student at the University of Southampton. 
+# Hi there 👋 <br /> I'm Ben, a 3rd year MEng EE w/ AI student at the University of Southampton. 
 
 ## I'm interested in ML, Data Science and Physics!!
 - 🔭 I’m currently working on a Dynamic DNN which incorporates an adaptive architecture during training and inference 
-- 📜 I’m currently learning about Computational Neuroscience (alongside my Degree)
+- 📜 I’m currently learning about Dynamic Neural Networks
 - 🚀 I’m looking to collaborate on fun ML projects
-- 🏆 My biggest achievement yet: [3rd Year Individual Project](https://github.com/ben-sanati/P3-IP-Class-Granular-Classifications)
+- 🏆 My biggest project yet: [3rd Year Individual Project](https://github.com/ben-sanati/P3-IP-Class-Granular-Classifications)
 - 📫 How to reach me: bensanatiwork@gmail.com
 
 ---
