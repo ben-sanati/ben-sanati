@@ -1,4 +1,4 @@
-# Hi there 👋<br />
+# Hi there 👋
 # I'm Ben, a 3rd year MEng Electronic Engineering with AI student at the University of Southampton. 
 
 ## I'm interested in ML, Data Science and Physics!!
