@@ -20,6 +20,8 @@
 
 ### Languages:
 
+<img align="left" alt="Terminal" width="26px" src="./img/C++.svg" />
+
 <br />
 <br />
 
