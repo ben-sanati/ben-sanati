@@ -17,6 +17,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 <img align="left" alt="CLion" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" style="padding-right:10px;" />
+<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" style="padding-right:10px;" />
 
 <br />
 
