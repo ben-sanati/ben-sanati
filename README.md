@@ -43,4 +43,5 @@
 ### Learn More:
 
 <img align="left" alt="Terminal" width="26px" src="./img/CV.svg" />
+
 [![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/benjamin-sanati)
