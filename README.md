@@ -26,9 +26,9 @@
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" />
-<img align="left" alt="PyTorch" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" style="padding-right:10px;" />
-<img align="left" alt="NumPy" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" style="padding-right:10px;" />
-<img align="left" alt="Bash" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" style="padding-right:10px;" />
+<img align="left" alt="PyTorch" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" style="padding-right:10px;" />
+<img align="left" alt="NumPy" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" style="padding-right:10px;" />
+<img align="left" alt="Bash" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" style="padding-right:10px;" />
 
 
 <br />
