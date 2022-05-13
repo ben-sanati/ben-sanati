@@ -21,7 +21,7 @@
 
 <br />
 
-### Languages:
+### Languages and Frameworks:
 
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />
