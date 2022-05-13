@@ -22,9 +22,8 @@
 
 ### Languages:
 
-<img align="left" alt="Terminal" width="26px" src="./img/cpp-dark.svg" />
-<img align="left" alt="CLion" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" />
 <img align="left" alt="CLion" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />
+<img align="left" alt="CLion" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" />
 
 
 <br />
