@@ -42,7 +42,6 @@
 
 ### Learn More:
 
-<img align="left" alt="Git-Bash" href=./files/CVFinal.pdf width="33px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" style="padding-right:10px;" />
+<img align="left" alt="Git-Bash" href=./files/CVFinal.pdf width="33px" src="./img/CV.png" style="padding-right:10px;" />
 
-[![CV](./img/CV.png)](./files/CVFinal.pdf)
 [![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/benjamin-sanati)
