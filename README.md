@@ -22,7 +22,7 @@
 
 ### Languages:
 
-<img align="left" alt="Terminal" width="26px" src="./img/cpp-dark.svg" />
+<img align="left" alt="Terminal" width="26px" src="./img/cp-dark.svg" />
 
 <br />
 <br />
