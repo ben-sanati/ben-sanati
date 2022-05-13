@@ -37,9 +37,6 @@
 
 ---
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-sanati&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Find Out More:
 
 <a href=./files/CVFinal.pdf><img align="left" alt="CV" width="33px" src="./img/CV.png" style="padding-right:10px;" /></a>
