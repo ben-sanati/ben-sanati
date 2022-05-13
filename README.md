@@ -1,5 +1,4 @@
-# Hi there 👋
-# I'm Ben, a 3rd year MEng Electronic Engineering with AI student at the University of Southampton. 
+# Hi there 👋 <br /> I'm Ben, a 3rd year MEng Electronic Engineering with AI student at the University of Southampton. 
 
 ## I'm interested in ML, Data Science and Physics!!
 - 🔭 I’m currently working on a Dynamic DNN which incorporates an adaptive architecture during training and inference 
