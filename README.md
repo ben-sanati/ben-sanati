@@ -18,6 +18,8 @@
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 <img align="left" alt="CLion" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" style="padding-right:10px;" />
 
+<br />
+
 ### Languages:
 
 <img align="left" alt="Terminal" width="26px" src="./img/C++.svg" />
