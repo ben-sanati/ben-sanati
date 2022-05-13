@@ -10,7 +10,6 @@
 ---
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ben-sanati&count_private=true&show_icons=true&theme=radical&hide_border=false" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-sanati)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
@@ -26,3 +25,7 @@
 
 <br />
 <br />
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-sanati)](https://github.com/anuraghazra/github-readme-stats)
