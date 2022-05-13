@@ -10,7 +10,7 @@
 ---
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ben-sanati&count_private=true&show_icons=true&theme=radical&hide_border=false" />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ben-sanati&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-sanati)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
