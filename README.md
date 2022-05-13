@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a Dynamic DNN which incorporates an adaptive architecture during training and inference 
 - 🌱 I’m currently learning about Computational Neuroscience (alongside my Degree)
 - 👯 I’m looking to collaborate on fun ML projects
-- 🌌 My biggest project yet: [3rd Year Individual Project](https://github.com/ben-sanati/P3-IP-Class-Granular-Classifications)
+- 🏆 My biggest project yet: [3rd Year Individual Project](https://github.com/ben-sanati/P3-IP-Class-Granular-Classifications)
 - 📫 How to reach me: bensanatiwork@gmail.com
 
 ---
