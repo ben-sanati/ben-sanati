@@ -39,8 +39,6 @@
 
 <a href="https://github.com/ben-sanati"><img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-sanati&layout=compact" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-sanati&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### More About Me:
 
 <a href=./files/CVFinal.pdf><img align="left" alt="CV" width="33px" src="./img/CV.png" style="padding-right:10px;" /></a>
