@@ -37,9 +37,9 @@
 
 ---
 
-<a href="https://github.com/ben-sanati"><img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-sanati&layout=compact" /></a>
-
 ### More About Me:
 
 <a href=./files/CVFinal.pdf><img align="left" alt="CV" width="33px" src="./img/CV.png" style="padding-right:10px;" /></a>
 <a href="https://www.linkedin.com/in/benjamin-sanati"><img align="left" alt="LinkedIn" width="33px" src="./img/linkedin-dark.svg" style="padding-right:10px;" /></a>
+
+<a href="https://github.com/ben-sanati"><img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-sanati&layout=compact" /></a>
