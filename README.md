@@ -14,21 +14,21 @@
 ### Tools:
 
 <a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /></a>
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
-<img align="left" alt="CLion" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" style="padding-right:10px;" />
-<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" style="padding-right:10px;" />
+<a href="https://github.com/"><img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" /></a>
+<a href="https://ubuntu.com/"><img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" /></a>
+<a href="https://www.jetbrains.com/clion/"><img align="left" alt="CLion" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" style="padding-right:10px;" /></a>
+<a href="https://www.jetbrains.com/pycharm/"><img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" style="padding-right:10px;" /></a>
 
 <br />
 
 ### Languages and Frameworks:
 
-<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" />
-<img align="left" alt="PyTorch" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" style="padding-right:10px;" />
-<img align="left" alt="Bash" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" style="padding-right:10px;" />
-<img align="left" alt="Git-Bash" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" style="padding-right:10px;" />
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" style="padding-right:10px;" /></a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" /></a>
+<a href="https://www.python.org/"><img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" /></a>
+<a href="https://pytorch.org/get-started/locally/"><img align="left" alt="PyTorch" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" style="padding-right:10px;" /></a>
+<a href="https://www.gnu.org/software/bash/"><img align="left" alt="Bash" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" style="padding-right:10px;" /></a>
+<a href="https://git-scm.com/"><img align="left" alt="Git-Bash" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" style="padding-right:10px;" /></a>
 
 
 <br />
