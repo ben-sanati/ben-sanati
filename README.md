@@ -37,7 +37,7 @@
 
 ---
 
-<a href="https://github.com/ben-sanati"><img align="right" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-sanati&layout=compact" /></a>
+<a href="https://github.com/ben-sanati"><img align="right" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-sanati&langs_count=5&layout=compact" /></a>
 
 ### More About Me:
 
