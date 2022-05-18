@@ -9,8 +9,7 @@
 
 ---
 
-[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=xgqfrms&amp;hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Ben's GitHub stats](+ https://github-readme-stats.vercel.app/api/pin/?username=ben-sanati&amp;repo=learning)](https://github.com/anuraghazra/github-readme-stats)
 ### Tools:
 
 <a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /></a>
