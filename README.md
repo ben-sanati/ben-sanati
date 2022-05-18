@@ -11,7 +11,7 @@
 
 <a href="https://github.com/ben-sanati"><img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ben-sanati&count_private=true&show_icons=true&theme=radical&hide_border=false" /></a>
 
-[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben-sanati&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=ben-sanati&amp;repo=learning&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tools:
 
