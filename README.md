@@ -9,7 +9,7 @@
 
 ---
 
-<a href="https://github.com/ben-sanati"><img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ben-sanati&count_private=true&show_icons=true&hide_border=true&cardType=level&bg_color=1e1e58&title_color=dfe8f1&icon_color=c3b7e4&text_color=8298e4" /></a>
+<a href="https://github.com/ben-sanati"><img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ben-sanati&count_private=true&show_icons=true&hide_border=true&cardType=level&bg_color=111132&title_color=dfe8f1&icon_color=c3b7e4&text_color=8298e4" /></a>
 
 ### Tools:
 
