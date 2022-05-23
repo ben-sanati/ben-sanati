@@ -45,6 +45,7 @@
 <a href="https://www.linkedin.com/in/benjamin-sanati"><img align="left" alt="LinkedIn" width="33px" src="./img/linkedin-dark.svg" style="padding-right:10px;" /></a>
 
 <br />
+<br />
 
 - 🤖 MEng EE w/ AI student
 - 🏆 2022 UG Research Scholar 
