@@ -1,4 +1,4 @@
-# Hi there 👋 <br /> I'm Ben, a 3rd year MEng EE w/ AI student at the University of Southampton. 
+# Hi there 👋 <br /> I'm Ben, an MEng EE w/ AI student. <br /> Welcome to my GitHub!
 
 ## I'm interested in ML, Data Science and Physics!!
 - 🔭 I’m currently working on a Dynamic DNN which incorporates an adaptive architecture during training and inference 
