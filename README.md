@@ -1,4 +1,4 @@
-# 🌉 Hi there 🌉 <br /> I'm Ben, an MEng EE w/ AI student. 🧠 <br /> Welcome to my GitHub! 🌐
+# 🌉 Hi there 🌉 <br /> I'm Ben, Welcome to my GitHub! 🌐
 
 ## I'm interested in ML, Data Science and Physics!!
 - 🔭 I’m currently working on a Dynamic DNN which incorporates an adaptive architecture during training and inference 
@@ -43,3 +43,6 @@
 
 <a href=./files/CVFinal.pdf><img align="left" alt="CV" width="33px" src="./img/CV.png" style="padding-right:10px;" /></a>
 <a href="https://www.linkedin.com/in/benjamin-sanati"><img align="left" alt="LinkedIn" width="33px" src="./img/linkedin-dark.svg" style="padding-right:10px;" /></a>
+
+- 🤖 MEng EE w/ AI student
+- 🏆 2022 UG Research Scholar 
