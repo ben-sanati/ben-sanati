@@ -1,7 +1,6 @@
 # 🌉 Hi there 🌉 <br /> I'm Ben, Welcome to my GitHub! 🌐
 
 ## I'm interested in ML, Data Science and Physics!!
-- 📡 I’m currently working on a Dynamic DNN which incorporates an adaptive architecture during inference 
 - 🏛️ I’m currently learning about Dynamic Neural Networks
 - 🧑‍💻 My current project: [UG Research Project](https://github.com/ben-sanati/UG-Research-CompVis-TinyML-Optimisation) - **private repo, email for access requests**
 - 🚀 I’m looking to collaborate on fun ML projects
