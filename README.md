@@ -1,3 +1,6 @@
+<div align="center">
+  <center><h1>My title</h1></center>
+</div>
 # Hi there 🌆 <br /> I'm Ben, Welcome to my GitHub! 🌐
 
 ## I'm interested in ML, Data Science and Physics!!
