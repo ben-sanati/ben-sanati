@@ -1,4 +1,6 @@
-# 🌉 Hi there 🌉 <br /> I'm Ben, Welcome to my GitHub! 🌐
+<p align="center">
+    # 🌉 Hi there 🌉 <br /> I'm Ben, Welcome to my GitHub! 🌐
+</p>
 
 ## I'm interested in ML, Data Science and Physics!!
 - 🏛️ I’m currently learning about Dynamic Neural Networks
