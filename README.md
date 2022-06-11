@@ -25,7 +25,6 @@
 
 ### Languages and Frameworks:
 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" style="padding-right:10px;" /></a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" /></a>
 <a href="https://www.python.org/"><img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" /></a>
 <a href="https://pytorch.org/get-started/locally/"><img align="left" alt="PyTorch" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" style="padding-right:10px;" /></a>
