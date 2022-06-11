@@ -30,7 +30,7 @@
 <a href="https://pytorch.org/get-started/locally/"><img align="left" alt="PyTorch" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" style="padding-right:10px;" /></a>
 <a href="https://www.gnu.org/software/bash/"><img align="left" alt="Bash" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" style="padding-right:10px;" /></a>
 <a href="https://git-scm.com/"><img align="left" alt="Git-Bash" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" style="padding-right:10px;" /></a>
-<a href="https://www.latex-project.org/"><img align="left" alt="Latex" width="33px" src="https://mathvault.ca/wp-content/uploads/latex-logo1.jpg" style="padding-right:10px;" /></a>
+<a href="https://www.latex-project.org/"><img align="left" alt="Latex" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/6/68/TeX_logo.svg" style="padding-right:10px;" /></a>
 
 
 <br />
