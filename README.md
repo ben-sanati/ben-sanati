@@ -17,10 +17,10 @@
 
 <a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /></a>
 <a href="https://github.com/"><img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" /></a>
-<a href="https://ubuntu.com/"><img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" /></a>
-<a href="https://www.jetbrains.com/clion/"><img align="left" alt="CLion" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" style="padding-right:10px;" /></a>
-<a href="https://www.jetbrains.com/pycharm/"><img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" style="padding-right:10px;" /></a>
-<a href="https://jupyter.org/"><img align="left" alt="Jupyter Notebook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" style="padding-right:10px;" /></a>
+<a href="https://ubuntu.com/"><img align="left" alt="Terminal" width="33px" src="./img/terminal-dark.svg" /></a>
+<a href="https://www.jetbrains.com/clion/"><img align="left" alt="CLion" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" style="padding-right:10px;" /></a>
+<a href="https://www.jetbrains.com/pycharm/"><img align="left" alt="PyCharm" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" style="padding-right:10px;" /></a>
+<a href="https://jupyter.org/"><img align="left" alt="Jupyter Notebook" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" style="padding-right:10px;" /></a>
 
 <br />
 
