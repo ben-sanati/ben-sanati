@@ -29,9 +29,9 @@
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img align="left" alt="C++" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" /></a>
 <a href="https://www.python.org/"><img align="left" alt="Python" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" /></a>
 <a href="https://pytorch.org/get-started/locally/"><img align="left" alt="PyTorch" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" style="padding-right:10px;" /></a>
-<a href="https://www.gnu.org/software/bash/"><img align="left" alt="Bash" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" style="padding-right:10px;" /></a>
-<a href="https://git-scm.com/"><img align="left" alt="Git-Bash" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" style="padding-right:10px;" /></a>
-<a href="https://www.latex-project.org/"><img align="left" alt="Latex" width="60px" src="./img/LatexImg.png" style="padding-right:10px;" /></a>
+<a href="https://www.gnu.org/software/bash/"><img align="left" alt="Bash" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" style="padding-right:10px;" /></a>
+<a href="https://git-scm.com/"><img align="left" alt="Git-Bash" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" style="padding-right:10px;" /></a>
+<a href="https://www.latex-project.org/"><img align="left" alt="Latex" width="66px" src="./img/LatexImg.png" style="padding-right:10px;" /></a>
 
 
 <br />
