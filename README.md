@@ -3,7 +3,7 @@
 </div>
 
 ## I'm interested in ML, Data Science and Physics!!
-- 🏛️ I’m currently learning about Quantum Neural Networks
+- 🏛️ I’m currently learning about Capsule Networks
 - 🧑‍💻 My current project: [UG Research Project](https://github.com/ben-sanati/UG-Research-CompVis-TinyML-Optimisation) - **private repo, email for access requests**
 - 🚀 I’m looking to collaborate on fun ML projects
 - 🏆 My biggest project yet: [3rd Year Individual Project](https://github.com/ben-sanati/P3-IP-Class-Granular-Classifications) - **private repo, email for access requests**
