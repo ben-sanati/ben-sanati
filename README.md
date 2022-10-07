@@ -3,8 +3,8 @@
 </div>
 
 ## I'm interested in ML, Data Science and Physics!!
-- 🏛️ I’m currently learning about ViTs
-- 🧑‍💻 My current project: [UG Research Project](https://github.com/ben-sanati/UG-Research-CompVis-TinyML-Optimisation) - **private repo, email for access requests**
+- 🏛️ I’m currently learning about Computational Finance
+- 🧑‍💻 My current project: Groud Design Project (University) - **private repo, email for access requests**
 - 🚀 I’m looking to collaborate on fun ML projects
 - 🏆 My biggest project yet: [3rd Year Individual Project](https://github.com/ben-sanati/P3-IP-Class-Granular-Classifications) - **private repo, email for access requests**
 - 📫 How to reach me: bensanatiwork@gmail.com
