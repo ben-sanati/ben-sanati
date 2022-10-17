@@ -6,7 +6,7 @@
 - 🏛️ I’m currently learning about Computational Finance
 - 🧑‍💻 My current project: Group Design Project (University) - **private repo, email for access requests**
 - 🚀 I’m looking to collaborate on fun ML projects
-- 🏆 My biggest project yet: [3rd Year Individual Project](https://github.com/ben-sanati/P3-IP-Class-Granular-Classifications) - **private repo, email for access requests**
+- 🏆 My biggest project yet: [3rd Year Individual Project](https://github.com/ben-sanati/P3-IP-Class-Granular-Classifications)
 - 📫 How to reach me: bensanatiwork@gmail.com
 
 ---
