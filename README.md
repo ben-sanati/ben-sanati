@@ -44,7 +44,7 @@
 
 ### More About Me:
 
-- 🤖 MEng EE w/ AI student
+- 🤖 MEng Electronic Engineering w/ AI student
 - 🏆 2022 UG Research Scholar 
 
 <a href=./files/CV.pdf><img align="left" alt="CV" width="33px" src="./img/CV.png" style="padding-right:10px;" /></a>
