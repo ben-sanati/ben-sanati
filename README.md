@@ -4,7 +4,8 @@
 
 ## I'm interested in ML, Data Science and Physics!!
 - 🏛️ I’m currently learning about Computational Finance
-- 🧑‍💻 My current project: Group Design Project (University) - **private repo, email for access requests**
+- 🧑‍💻 My current project: Group Design Project (University)
+  - A mobile application that supports automated inspection of signage on train vehicles using computer vision. Autosign is being developed with an industry partner - a manufacturer of train signs.
 - 🚀 I’m looking to collaborate on fun ML projects
 - 🏆 My biggest project yet: [3rd Year Individual Project](https://github.com/ben-sanati/P3-IP-Class-Granular-Classifications)
 - 📫 How to reach me: bensanatiwork@gmail.com
