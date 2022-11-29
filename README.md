@@ -6,7 +6,7 @@
 - 🏛️ I’m currently learning about Computational Finance
 - 🧑‍💻 My current project: Group Design Project (University)
   - A project that automates the sign inspection process of trains by using computer vision techniques. This project is being developed with an industry partner and is therefore not public.
-- 🚀 I’m looking to collaborate on fun ML projects
+- 🚀 I’m looking to collaborate on fun, interesting, and impactful ML projects
 - 🏆 My biggest project yet: [3rd Year Individual Project](https://github.com/ben-sanati/P3-IP-Class-Granular-Classifications)
 - 📫 How to reach me: bensanatiwork@gmail.com
 
