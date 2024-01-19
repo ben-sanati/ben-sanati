@@ -3,7 +3,7 @@
 </div>
 
 ## I'm interested in Deep Learning, Machine Learning and Data Science 
-- 🏛️ I’m currently learning about Computational Finance
+- 🏛️ I’m currently learning about AWS and Data Lakes
 - 🚀 I’m looking to collaborate on fun, interesting, and impactful ML projects
 - 🏆 My biggest project yet: [4th Year Masters Group Project](https://github.com/TrainOrg52/AutoSign)
 - 📫 How to reach me: bensanatiwork@gmail.com
