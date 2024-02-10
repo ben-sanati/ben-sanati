@@ -1,6 +1,8 @@
-<div align="center">
-  <center><h1>🌐 Welcome to my GitHub! 🌐</h1></center>
-</div>
+<p align="center">
+<a href="https://github.com/drkostas">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Ben+Sanati;Aspiring+Researcher+%7C+Entrepreneur+%7C+Deep+Learning+Engineer;Deep+Learning+%7C+Deep+Reinforcement+Learning+%7C+Computer+Vision+%7C" alt="Typing SVG" />
+</a>
+<br/>
 
 ## I'm interested in Deep Learning, Machine Learning and Data Science 
 - 🏛️ I’m currently learning about Computational Finance
