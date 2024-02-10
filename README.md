@@ -1,12 +1,11 @@
 <p align="center">
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Ben+Sanati;Aspiring+Researcher+%7C+Entrepreneur+%7C+Deep+Learning+Engineer;Deep+Learning+%7C+Deep+Reinforcement+Learning+%7C+Computer+Vision+%7C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Ben+Sanati;Aspiring+Researcher+%7C+Entrepreneur;Deep+Learning+%7C+Deep+Reinforcement+Learning+%7C+Computer+Vision+%7C" alt="Typing SVG" />
 </a>
 <br/>
 
-## I'm interested in Deep Learning, Machine Learning and Data Science 
 - 🏛️ I’m currently learning about AWS and Data Lakes
-- 🚀 I’m looking to collaborate on fun, interesting, and impactful ML projects
+- 🚀 I’m looking to collaborate on fun, interesting, and impactful DL projects
 - 🏆 My biggest project yet: [4th Year Masters Group Project](https://github.com/TrainOrg52/AutoSign)
 - 📫 How to reach me: bensanatiwork@gmail.com
 
@@ -18,7 +17,7 @@
 
 <a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /></a>
 <a href="https://github.com/"><img align="left" alt="GitHub" width="33px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" /></a>
-<a href="https://ubuntu.com/"><img align="left" alt="Terminal" width="33px" src="./img/terminal-dark.svg" /></a>
+<a href="https://aws.amazon.com/what-is-aws/?gclid=CjwKCAiAt5euBhB9EiwAdkXWO8B47qpOD-tdJwwS2DK7K4Hk6McbL2Phz8BG38paovMrsacO6o1OKhoCVt8QAvD_BwE&trk=d5254134-67ca-4a35-91cc-77868c97eedd&sc_channel=ps&ef_id=CjwKCAiAt5euBhB9EiwAdkXWO8B47qpOD-tdJwwS2DK7K4Hk6McbL2Phz8BG38paovMrsacO6o1OKhoCVt8QAvD_BwE:G:s&s_kwcid=AL!4422!3!433803620858!e!!g!!aws!1680401428!67152600164"><img align="left" alt="AWS" width="33px" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-ptyrjxdo.png" style="padding-right:10px;" /></a>
 <a href="https://www.jetbrains.com/clion/"><img align="left" alt="CLion" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" style="padding-right:10px;" /></a>
 <a href="https://www.jetbrains.com/pycharm/"><img align="left" alt="PyCharm" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" style="padding-right:10px;" /></a>
 <a href="https://jupyter.org/"><img align="left" alt="Jupyter Notebook" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" style="padding-right:10px;" /></a>
