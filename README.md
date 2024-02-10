@@ -36,14 +36,14 @@
 
 ### More About Me:
 
+<a href="./files/CV.pdf"><img alt="CV" src="./img/CV.png" width="33px" /></a>&ensp;
+<a href="https://www.linkedin.com/in/benjamin-sanati"><img alt="LinkedIn" src="./img/linkedin-dark.svg" width="33px" /></a>
+
 | | |
 | :-- | :-- |
 | 🤖 | MEng Electronic Engineering w/ AI Graduate |
 | 🏆 | 2022 UG Research Scholar |
 | 🌐 | 2024 Industry-University Research Placement |
 | | |
-
-<a href="./files/CV.pdf"><img alt="CV" src="./img/CV.png" width="33px" /></a>
-<a href="https://www.linkedin.com/in/benjamin-sanati"><img alt="LinkedIn" src="./img/linkedin-dark.svg" width="33px" /></a>
 
 </div>
