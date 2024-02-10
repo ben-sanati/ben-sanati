@@ -13,7 +13,6 @@
 | 📫 | How to reach me: bensanatiwork@gmail.com |
 | | |
 
-
 <a href="https://github.com/ben-sanati">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ben-sanati&count_private=true&show_icons=true&hide_border=true&cardType=level&theme=tokyonight&icon_color=aa00d6&text_color=22d6c4" alt="GitHub Stats"/>
 </a>
