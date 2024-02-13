@@ -1,17 +1,19 @@
 <div align="center">
 
 <a href="https://github.com/ben-sanati">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2000&pause=100&multiline=true&width=435&height=85&center=true&lines=Ben+Sanati;Aspiring+Researcher+%26+Entrepreneur;DL+%7C+DRL+%7C+MADRL+%7C+CV" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2000&pause=5&multiline=true&width=435&height=85&center=true&lines=Ben+Sanati;Aspiring+Researcher+%26+Entrepreneur;DL+%7C+DRL+%7C+MADRL+%7C+CV" alt="Typing SVG"/>
 </a>
 <br/>
+<br/>
 
-| | |
-| :-- | :-- |
-| 🏛️ | I’m currently learning about AWS and Data Lakes |
-| 🚀 | I’m looking to collaborate on fun, interesting, and impactful DL projects |
-| 🏆 | My biggest project yet: [4th Year Masters Group Project](https://github.com/TrainOrg52/AutoSign) |
-| 📫 | How to reach me: bensanatiwork@gmail.com |
-| | |
+<p align="left" style="font-size:1.1em;">
+🏛️ I’m currently learning about AWS and Data Lakes<br />
+🚀 I’m looking to collaborate on interesting, and impactful DL projects<br />
+🏆 My biggest project yet: <a href="https://github.com/TrainOrg52/AutoSign">4th Year Masters Group Project</a><br />
+📫 I’m currently learning about AWS and Data Lakes
+</p>
+<br/>
+
 
 <a href="https://github.com/ben-sanati">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ben-sanati&count_private=true&show_icons=true&hide_border=true&cardType=level&theme=tokyonight&icon_color=aa00d6&text_color=22d6c4" alt="GitHub Stats"/>
@@ -34,11 +36,8 @@
 <a href="./files/CV.pdf"><img alt="CV" src="./img/CV.png" width="33px" /></a>&ensp;
 <a href="https://www.linkedin.com/in/benjamin-sanati"><img alt="LinkedIn" src="./img/linkedin-dark.svg" width="33px" /></a>
 
-| | |
-| :-- | :-- |
-| 🤖 | MEng Electronic Engineering w/ AI Graduate |
-| 🏆 | 2022 UG Research Scholar |
-| 🌐 | 2024 Industry-University Research Placement |
-| | |
+#### Awards
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&duration=2000&pause=5&multiline=true&width=435&height=110&center=false&lines=🤖+MEng+Electronic+Engineering+w/+AI+Graduate;🏆+2022+UG+Research+Scholar;🌐+2024+Innovate+UK+AKT+Associate" alt="Typing SVG"/>
 
 </div>
