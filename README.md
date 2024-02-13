@@ -10,7 +10,7 @@
 🏛️ I’m currently learning about AWS and Data Lakes<br />
 🚀 I’m looking to collaborate on interesting, and impactful DL projects<br />
 🏆 My biggest project yet: <a href="https://github.com/TrainOrg52/AutoSign">4th Year Masters Group Project</a><br />
-📫 I’m currently learning about AWS and Data Lakes
+📫 How to reach me: <a href="bensanatiwork@gmail.com">bensanatiwork@gmail.com</a>
 </p>
 <br/>
 
