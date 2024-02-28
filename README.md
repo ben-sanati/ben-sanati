@@ -25,7 +25,7 @@
 <a href="https://aws.amazon.com"><img alt="AWS" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-ptyrjxdo.png" width="36px" /></a>
 <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="30px" /></a>
 &emsp;&emsp;&emsp;
-<a href="https://www.python.org/"><img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="35px" /></a>
+<a href="https://www.python.org/"><img alt="Python" src="https://www.svgrepo.com/show/452091/python.svg" width="37px" /></a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="33px" /></a>
 <a href="https://www.terraform.io/"><img alt="Terraform" src="https://encore.dev/assets/resources/terraform_cover.png" width="35px" /></a>
 <a href="https://www.mysql.com/"><img alt="SQL" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="35px" /></a>
