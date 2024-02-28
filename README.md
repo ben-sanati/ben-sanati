@@ -8,8 +8,8 @@
 
 <p align="left" style="font-size:1.1em;">
 🏛️ I’m currently learning about AWS and Data Lakes<br />
-🚀 I’m looking to collaborate on interesting, and impactful DL projects<br />
-🏆 My biggest project yet: <a href="https://github.com/TrainOrg52/AutoSign">4th Year Masters Group Project</a><br />
+🚀 I’m looking to collaborate on interesting and impactful DL projects<br />
+🏆 My biggest project yet: <a href="https://github.com/TrainOrg52/AutoSign">Masters Group Project</a><br />
 📫 How to reach me: <a href="bensanatiwork@gmail.com">bensanatiwork@gmail.com</a>
 </p>
 <br/>
@@ -41,6 +41,8 @@
 
 #### Awards
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&duration=2000&pause=5&multiline=true&width=435&height=110&center=false&lines=🌐+2024+Innovate+UK+AKT+Associate;🤖+2023+MEng+Electronic+Engineering+w/+AI+Graduate;🏆+2022+UG+Research+Scholar" alt="Typing SVG"/>
+<a href="https://github.com/ben-sanati">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&duration=2000&pause=5&multiline=true&width=435&height=110&center=false&lines=🌐+2024+Innovate+UK+AKT+Associate;🤖+2023+MEng+Electronic+Engineering+w/+AI+Graduate;🏆+2022+UG+Research+Scholar" alt="Typing SVG"/>
+</a>
 
 </div>
