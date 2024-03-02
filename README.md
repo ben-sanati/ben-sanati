@@ -35,10 +35,10 @@
 <a href="https://scipy.org/"><img alt="SciPy" src="https://numfocus.org/wp-content/uploads/2017/11/scipy_logo300x300.png" width="36px" /></a>
 <a href="https://scrapeops.io/"><img alt="ScrapeOps" src="https://yt3.googleusercontent.com/_mzhxTnSKfkS6-vvRDDhlKlA1-2ZDSrcgY1qM6C64UECaE3PgXgrIgTLZxWyBDcqsjlWcIAm4A=s900-c-k-c0x00ffffff-no-rj" width="34px" /></a>
 &emsp;&emsp;&emsp;
-<a><img alt="NumPy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Blank1x1.svg/1024px-Blank1x1.svg.png" width="37px" /></a>
-<a><img alt="NumPy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Blank1x1.svg/1024px-Blank1x1.svg.png" width="33px" /></a>
-<a><img alt="NumPy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Blank1x1.svg/1024px-Blank1x1.svg.png" width="35px" /></a>
-<a><img alt="NumPy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Blank1x1.svg/1024px-Blank1x1.svg.png" width="35px" /></a>
+<a><img alt="Clear" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Blank1x1.svg/1024px-Blank1x1.svg.png" width="37px" /></a>
+<a><img alt="Clear" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Blank1x1.svg/1024px-Blank1x1.svg.png" width="33px" /></a>
+<a><img alt="Clear" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Blank1x1.svg/1024px-Blank1x1.svg.png" width="35px" /></a>
+<a><img alt="Clear" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Blank1x1.svg/1024px-Blank1x1.svg.png" width="35px" /></a>
 ### More About Me:
 
 <a href="./files/CV.pdf"><img alt="CV" src="./img/CV.png" width="33px" /></a>&ensp;
