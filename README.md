@@ -39,6 +39,7 @@
 <a><img alt="Clear" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Blank1x1.svg/1024px-Blank1x1.svg.png" width="33px" /></a>
 <a><img alt="Clear" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Blank1x1.svg/1024px-Blank1x1.svg.png" width="35px" /></a>
 <a><img alt="Clear" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Blank1x1.svg/1024px-Blank1x1.svg.png" width="35px" /></a>
+
 ### More About Me:
 
 <a href="./files/CV.pdf"><img alt="CV" src="./img/CV.png" width="33px" /></a>&ensp;
