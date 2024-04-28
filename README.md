@@ -7,7 +7,7 @@
 <br/>
 
 <p align="left" style="font-size:1.1em;">
-🏛️ I’m currently learning about AWS and Data Lakes<br />
+🏛️ I’m currently learning about Real Time 3D Localisation and Mapping<br />
 🚀 I’m looking to collaborate on interesting and impactful DL projects<br />
 🏆 My biggest project yet: <a href="https://github.com/TrainOrg52/AutoSign">Masters Group Project</a><br />
 📫 How to reach me: <a href="bensanatiwork@gmail.com">bensanatiwork@gmail.com</a>
