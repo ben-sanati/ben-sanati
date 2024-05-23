@@ -9,7 +9,7 @@
 <p align="left" style="font-size:1.1em;">
 🏛️ I’m currently learning about Real Time 3D Localisation and Mapping<br />
 🚀 I’m looking to collaborate on interesting and impactful DL projects<br />
-🏆 My biggest project yet: <a href="https://github.com/TrainOrg52/AutoSign">Masters Group Project</a><br />
+🏆 Project highlight: <a href="https://github.com/TrainOrg52/AutoSign">Masters Group Project</a><br />
 📫 How to reach me: <a href="bensanatiwork@gmail.com">bensanatiwork@gmail.com</a>
 </p>
 <br/>
@@ -40,15 +40,15 @@
 <a><img alt="Padding" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Blank1x1.svg/1024px-Blank1x1.svg.png" width="35px" /></a>
 <a><img alt="Padding" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Blank1x1.svg/1024px-Blank1x1.svg.png" width="35px" /></a>
 
-### More About Me:
-
-<a href="./files/CV.pdf"><img alt="CV" src="./img/CV.png" width="33px" /></a>&ensp;
-<a href="https://www.linkedin.com/in/benjamin-sanati"><img alt="LinkedIn" src="./img/linkedin-dark.svg" width="33px" /></a>
-
 ### Awards
 
 <a href="https://github.com/ben-sanati">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&duration=2000&pause=5&multiline=true&width=435&height=110&center=false&lines=🌐+2024+Innovate+UK+Senior+Research+Assistant+KTA+in+ML;🤖+2023+MEng+Electronic+Engineering+w/+AI+Graduate;🏆+2022+UG+Research+Scholar" alt="Typing SVG"/>
 </a>
+
+### More About Me:
+
+<a href="./files/CV.pdf"><img alt="CV" src="./img/CV.png" width="33px" /></a>&ensp;
+<a href="https://www.linkedin.com/in/benjamin-sanati"><img alt="LinkedIn" src="./img/linkedin-dark.svg" width="33px" /></a>
 
 </div>
