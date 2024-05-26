@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2000&pause=5&multiline=true&width=435&height=85&center=true&lines=Ben+Sanati;Aspiring+Researcher+%26+Entrepreneur;DL+%7C+DRL+%7C+MADRL+%7C+CV" alt="Typing SVG"/>
 </a>
 
-![Snake animation](https://raw.githubusercontent.com/ben-sanati/ben-sanati/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://raw.githubusercontent.com/ben-sanati/ben-sanati/output/github-contribution-grid-snake-dark.svg)
 
 ### &emsp;Tools&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Languages
 
