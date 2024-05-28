@@ -28,7 +28,7 @@
 <a><img alt="Padding" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Blank1x1.svg/1024px-Blank1x1.svg.png" width="35px" /></a>
 <a><img alt="Padding" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Blank1x1.svg/1024px-Blank1x1.svg.png" width="35px" /></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ben-sanati&theme=dark&hide_border=true&background=161B22&stroke=FFFF&ring=6457A6&fire=6457A6&currStreakLabel=FFFFFF&card_width=495)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ben-sanati&theme=dark&hide_border=true&background=0D1117&stroke=FFFF&ring=6457A6&fire=6457A6&currStreakLabel=FFFFFF&card_width=495)](https://git.io/streak-stats)
 
 ### More About Me:
 
