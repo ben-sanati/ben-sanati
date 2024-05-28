@@ -39,4 +39,7 @@
 <a href="https://github.com/ben-sanati">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&duration=2000&pause=5&multiline=true&width=435&height=110&center=false&lines=🌐+2024+Innovate+UK+Senior+Research+Assistant+KTA+in+ML;🤖+2023+MEng+Electronic+Engineering+w/+AI+Graduate;🏆+2022+UG+Research+Scholar" alt="Typing SVG"/>
 </a>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ben-sanati&theme=dark)](https://git.io/streak-stats)
+
 </div>
