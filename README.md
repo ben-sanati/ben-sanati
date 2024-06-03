@@ -30,7 +30,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ben-sanati&theme=dark&hide_border=true&background=0D1117&stroke=FFFF&ring=6457A6&fire=6457A6&currStreakLabel=FFFFFF&card_width=495)](https://git.io/streak-stats)
 
-### More About Me:
+### More
 
 <a href="./files/CV.pdf"><img alt="CV" src="./img/CV.png" width="33px" /></a>&ensp;
 <a href="https://www.linkedin.com/in/benjamin-sanati"><img alt="LinkedIn" src="./img/linkedin-dark.svg" width="33px" /></a>&ensp;
