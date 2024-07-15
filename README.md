@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ben-sanati">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2000&pause=5&multiline=true&width=435&height=85&center=true&lines=Ben+Sanati;Aspiring+Researcher+%26+Entrepreneur;DL+%7C+DRL+%7C+MADRL+%7C+CV" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2000&pause=5&multiline=true&width=435&height=120&center=true&lines=Ben+Sanati;PhD+Student+@+University+of+Edinburgh;Aspiring+Researcher+%26+Entrepreneur;DL+%7C+DRL+%7C+MADRL+%7C+CV" alt="Typing SVG"/>
 </a>
 
 ![Snake Animation](https://raw.githubusercontent.com/ben-sanati/ben-sanati/output/github-contribution-grid-snake-dark.svg)
@@ -36,7 +36,7 @@
 <a href="https://www.linkedin.com/in/benjamin-sanati"><img alt="LinkedIn" src="./img/linkedin-dark.svg" width="33px" /></a>&ensp;
 <a href="mailto:bensanatiwork@gmail.com"><img alt="Email" src="./img/email.png" width="34px" /></a>
 
-### Positions & Awards
+### Awards
 
 <a href="https://github.com/ben-sanati">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&duration=2000&pause=5&multiline=true&width=435&height=110&center=false&lines=🌐+2024+Innovate+UK+Senior+Research+Assistant+KTA+in+ML;🤖+2023+MEng+Electronic+Engineering+w/+AI+Graduate;🏆+2022+UG+Research+Scholar" alt="Typing SVG"/>
