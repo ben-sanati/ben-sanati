@@ -51,6 +51,4 @@
 <img src="img/EfficientFrontier.png" alt="Computational Finance" style="width:30%;">
 <img src="img/HimmelblauFunc.png" alt="Himmelblau Function" style="width:30%;">
 
----
-
 </div>
