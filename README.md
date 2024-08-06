@@ -39,7 +39,18 @@
 ### Awards
 
 <a href="https://github.com/ben-sanati">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&duration=2000&pause=5&multiline=true&width=435&height=110&center=false&lines=🎓+2024+ESPRC+CDT+Machine+Learning+Systems+Scholarship;🌐+2024+Innovate+UK+Senior+Research+Assistant+KTA+in+ML;🤖+2023+MEng+Electronic+Engineering+w/+AI+Graduate;🏆+2022+Undergraduate+Research+Scholar" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&duration=2000&pause=5&multiline=true&width=435&height=88&center=false&lines=🎓+2024+ESPRC+CDT+Machine+Learning+Systems+Scholarship;🌐+2024+Innovate+UK+Senior+Research+Assistant+KTA+in+ML;🤖+2023+MEng+Electronic+Engineering+w/+AI+Graduate;🏆+2022+Undergraduate+Research+Scholar" alt="Typing SVG"/>
 </a>
+
+### Highlights
+
+<img src="img/LiDARMap.gif" alt="LiDAR" style="width:30%; height:50%;">
+<img src="img/robotarm.gif" alt="Robot Arm" style="width:30%; height:10%;">
+<img src="img/svm.gif" alt="SVM" style="width:30%;">
+<img src="img/app_ss.png" alt="AutoSign" style="width:30%;">
+<img src="img/EfficientFrontier.png" alt="Computational Finance" style="width:30%;">
+<img src="img/HimmelblauFunc.jpg" alt="Himmelblau Function" style="width:30%;">
+
+---
 
 </div>
