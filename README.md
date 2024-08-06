@@ -49,7 +49,7 @@
 <img src="img/svm.gif" alt="SVM" style="width:30%;">
 <img src="img/app_ss.png" alt="AutoSign" style="width:30%;">
 <img src="img/EfficientFrontier.png" alt="Computational Finance" style="width:30%;">
-<img src="img/HimmelblauFunc.jpg" alt="Himmelblau Function" style="width:30%;">
+<img src="img/HimmelblauFunc.png" alt="Himmelblau Function" style="width:30%;">
 
 ---
 
