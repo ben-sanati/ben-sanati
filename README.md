@@ -32,9 +32,10 @@
 
 ### More About Me
 
-<a href="./files/CV.pdf"><img alt="CV" src="./img/CV.png" width="33px" /></a>&ensp;
+<a href="https://ben-sanati.github.io/"><img alt="Website" src="./img/web.png" width="33px" /></a>&ensp;
 <a href="https://www.linkedin.com/in/benjamin-sanati"><img alt="LinkedIn" src="./img/linkedin-dark.svg" width="33px" /></a>&ensp;
-<a href="mailto:bensanatiwork@gmail.com"><img alt="Email" src="./img/email.png" width="34px" /></a>
+<a href="mailto:bensanatiwork@gmail.com"><img alt="Email" src="./img/email.png" width="34px" /></a>&ensp;
+<a href="./files/CV.pdf"><img alt="CV" src="./img/CV.png" width="33px" /></a>
 
 ### Awards
 
