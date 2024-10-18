@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ben-sanati">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2000&pause=5&multiline=true&width=435&height=120&center=true&lines=Ben+Sanati;PhD+Student+@+University+of+Edinburgh;Aspiring+Researcher+%26+Entrepreneur;DL+%7C+DRL+%7C+MADRL+%7C+CV" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2000&pause=5&multiline=true&width=435&height=81&center=true&lines=Ben+Sanati;PhD+Student+@+University+of+Edinburgh;DL+%7C+DRL+%7C+MADRL+%7C+CV" alt="Typing SVG"/>
 </a>
 
 ![Snake Animation](https://raw.githubusercontent.com/ben-sanati/ben-sanati/output/github-contribution-grid-snake-dark.svg)
