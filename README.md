@@ -21,7 +21,7 @@
 <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6JlZY8bY7ruG3cCHKNRwzrMvkWi7LHjm3ZpzUN4sbtr8pho3ME24WLFEoYCBHNnqZwU&usqp=CAU" width="37px" /></a>
 <a href="https://numpy.org/"><img alt="NumPy" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="34px" /></a>
 <a href="https://scipy.org/"><img alt="SciPy" src="https://numfocus.org/wp-content/uploads/2017/11/scipy_logo300x300.png" width="36px" /></a>
-<a href="https://scrapeops.io/"><img alt="ScrapeOps" src="https://yt3.googleusercontent.com/_mzhxTnSKfkS6-vvRDDhlKlA1-2ZDSrcgY1qM6C64UECaE3PgXgrIgTLZxWyBDcqsjlWcIAm4A=s900-c-k-c0x00ffffff-no-rj" width="34px" /></a>
+<a href="https://scrapeops.io/"><img alt="ScrapeOps" src="https://avatars.githubusercontent.com/u/85173056?s=280&v=4" width="34px" /></a>
 &emsp;&emsp;&emsp;
 <a><img alt="Padding" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Blank1x1.svg/1024px-Blank1x1.svg.png" width="37px" /></a>
 <a><img alt="Padding" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Blank1x1.svg/1024px-Blank1x1.svg.png" width="33px" /></a>
