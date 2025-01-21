@@ -1,18 +1,18 @@
 <div align="center">
 
 <a href="https://github.com/ben-sanati">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2000&pause=10&multiline=true&width=440&height=87&center=true&lines=Ben+Sanati;PhD+Student+@+University+of+Edinburgh;RL+%7C+Continual+Learning+%7C+ZSG" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2000&pause=10&multiline=true&width=440&height=87&center=true&lines=Ben+Sanati;PhD+Student+@+University+of+Edinburgh;Continual+Learning+%7C+Open-Endedness+%7C+OoD" alt="Typing SVG"/>
 </a>
 
-![Snake Animation](https://raw.githubusercontent.com/ben-sanati/ben-sanati/output/github-contribution-grid-snake-dark.svg)
+![Alt Text](img/mario.gif)
 
-### &emsp;Tools&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Languages
+### &emsp;Tools&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Languages
 
 <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="33px" /></a>
 <a href="https://github.com/"><img alt="GitHub" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" width="33px" /></a>
 <a href="https://aws.amazon.com"><img alt="AWS" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-ptyrjxdo.png" width="36px" /></a>
 <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="30px" /></a>
-&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <a href="https://www.python.org/"><img alt="Python" src="https://www.svgrepo.com/show/452091/python.svg" width="37px" /></a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="33px" /></a>
 <a href="https://www.terraform.io/"><img alt="Terraform" src="https://encore.dev/assets/resources/terraform_cover.png" width="35px" /></a>
@@ -22,13 +22,13 @@
 <a href="https://numpy.org/"><img alt="NumPy" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="34px" /></a>
 <a href="https://scipy.org/"><img alt="SciPy" src="https://numfocus.org/wp-content/uploads/2017/11/scipy_logo300x300.png" width="36px" /></a>
 <a href="https://scrapeops.io/"><img alt="ScrapeOps" src="https://avatars.githubusercontent.com/u/85173056?s=280&v=4" width="34px" /></a>
-&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <a><img alt="Padding" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Blank1x1.svg/1024px-Blank1x1.svg.png" width="37px" /></a>
 <a><img alt="Padding" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Blank1x1.svg/1024px-Blank1x1.svg.png" width="33px" /></a>
 <a><img alt="Padding" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Blank1x1.svg/1024px-Blank1x1.svg.png" width="35px" /></a>
 <a><img alt="Padding" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Blank1x1.svg/1024px-Blank1x1.svg.png" width="35px" /></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ben-sanati&theme=dark&hide_border=true&background=0D1117&stroke=FFFF&ring=6457A6&fire=6457A6&currStreakLabel=FFFFFF&card_width=495)](https://git.io/streak-stats)
+![Snake Animation](https://raw.githubusercontent.com/ben-sanati/ben-sanati/output/github-contribution-grid-snake-dark.svg)
 
 
 ### More About Me
@@ -48,8 +48,8 @@
 
 <img src="img/LiDARMap.gif" alt="LiDAR" style="width:30%; height:50%;">
 <img src="img/robotarm.gif" alt="Robot Arm" style="width:30%; height:10%;">
+<img src="img/CVAE_seed3.gif" alt="cVAE" style="width:29%;">
 <img src="img/svm.gif" alt="SVM" style="width:30%;">
-<img src="img/app_ss.png" alt="AutoSign" style="width:30%;">
 <img src="img/EfficientFrontier.png" alt="Computational Finance" style="width:30%;">
 <img src="img/HimmelblauFunc.png" alt="Himmelblau Function" style="width:30%;">
 
