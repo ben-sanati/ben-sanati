@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ben-sanati">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2500&pause=10&multiline=true&width=440&height=87&center=true&lines=Ben+Sanati;PhD+Student+@+University+of+Edinburgh;Continual+Learning+%7C+Open-Endedness+%7C+OoD" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2500&pause=1000&multiline=true&width=440&height=87&center=true&lines=Ben+Sanati;PhD+Student+@+University+of+Edinburgh;Continual+Learning+%7C+Open-Endedness+%7C+OoD;" alt="Typing SVG"/>
 </a>
 
 ![Alt Text](img/mario.gif)
