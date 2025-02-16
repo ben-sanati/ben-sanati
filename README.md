@@ -46,9 +46,9 @@
 
 ### Highlights
 
-<img src="img/LiDARMap.gif" alt="LiDAR" style="width:30%; height:50%;">
-<img src="img/robotarm.gif" alt="Robot Arm" style="width:30%; height:10%;">
-<img src="img/CVAE_seed3.gif" alt="cVAE" style="width:29%;">
+<img src="img/forward_noise.png" alt="Diffusion Forward Noising" style="width:90%; height: 10%">
+<img src="img/LiDARMap.gif" alt="LiDAR" style="width:45%; height:50%;">
+<img src="img/robotarm.gif" alt="Robot Arm" style="width:45%; height:10%;">
 <img src="img/svm.gif" alt="SVM" style="width:30%;">
 <img src="img/EfficientFrontier.png" alt="Computational Finance" style="width:30%;">
 <img src="img/HimmelblauFunc.png" alt="Himmelblau Function" style="width:30%;">
