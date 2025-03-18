@@ -44,7 +44,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&duration=2000&pause=5&multiline=true&width=435&height=88&center=false&lines=🎓+2024+ESPRC+CDT+Machine+Learning+Systems+Scholarship;🌐+2024+Innovate+UK+Senior+Research+Assistant+KTA+in+ML;🤖+2023+MEng+Electronic+Engineering+w/+AI+Graduate;🏆+2022+Undergraduate+Research+Scholar;" alt="Typing SVG"/>
 </a>
 
-<br />
+<br>
+
 
 <img src="img/conditional_path.gif" alt="Diffusion Forward Noising" style="width:100%">
 
