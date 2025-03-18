@@ -44,13 +44,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&duration=2000&pause=5&multiline=true&width=435&height=88&center=false&lines=🎓+2024+ESPRC+CDT+Machine+Learning+Systems+Scholarship;🌐+2024+Innovate+UK+Senior+Research+Assistant+KTA+in+ML;🤖+2023+MEng+Electronic+Engineering+w/+AI+Graduate;🏆+2022+Undergraduate+Research+Scholar" alt="Typing SVG"/>
 </a>
 
-### Highlights
-
-<img src="img/forward_noise.png" alt="Diffusion Forward Noising" style="width:90%; height: 10%">
-<img src="img/LiDARMap.gif" alt="LiDAR" style="width:45%; height:50%;">
-<img src="img/robotarm.gif" alt="Robot Arm" style="width:45%; height:10%;">
-<img src="img/svm.gif" alt="SVM" style="width:30%;">
-<img src="img/EfficientFrontier.png" alt="Computational Finance" style="width:30%;">
-<img src="img/HimmelblauFunc.png" alt="Himmelblau Function" style="width:30%;">
+<img src="img/conditional_path.gif" alt="Diffusion Forward Noising" style="width:100%">
 
 </div>
