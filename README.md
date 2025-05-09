@@ -10,7 +10,7 @@
 
 <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="30px" /></a>
 <a href="https://docs.jax.dev/en/latest/index.html">
-  <img alt="JAX" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Google_JAX_logo.svg" width="42px" style="vertical-align: middle; position: relative; top: -0.85em;" />
+  <img alt="JAX" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Google_JAX_logo.svg" width="42px" style="vertical-align: middle; position: relative; top: -0.95em;" />
 </a>
 <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="33px" /></a>
 <a href="https://github.com/"><img alt="GitHub" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" width="33px" /></a>
