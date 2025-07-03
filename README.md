@@ -20,7 +20,6 @@
 
 ![Snake Animation](https://raw.githubusercontent.com/ben-sanati/ben-sanati/output/github-contribution-grid-snake-dark.svg)
 
-
 ### More About Me
 
 <a href="https://ben-sanati.github.io/"><img alt="Website" src="./img/web.png" width="33px" /></a>&ensp;
