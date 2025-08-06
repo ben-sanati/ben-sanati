@@ -18,8 +18,6 @@
 <a href="https://www.terraform.io/"><img alt="Terraform" src="https://encore.dev/assets/resources/terraform_cover.png" width="35px" /></a>
 <a href="https://www.mysql.com/"><img alt="SQL" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="35px" /></a>
 
-![Snake Animation](https://raw.githubusercontent.com/ben-sanati/ben-sanati/output/github-contribution-grid-snake-dark.svg)
-
 ### More About Me
 
 <a href="https://ben-sanati.github.io/"><img alt="Website" src="./img/web.png" width="33px" /></a>&ensp;
@@ -30,10 +28,5 @@
 ### Awards
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=16&duration=2000&pause=5&multiline=true&width=435&height=88&center=false&lines=🎓+2024+ESPRC+CDT+Machine+Learning+Systems+Scholarship;🌐+2024+Innovate+UK+Senior+Research+Assistant+KTA+in+ML;🤖+2023+MEng+Electronic+Engineering+w/+AI+Graduate;🏆+2022+Undergraduate+Research+Scholar;)](https://github.com/ben-sanati)
-
-<br>
-
-
-<img src="img/conditional_path.gif" alt="Diffusion Forward Noising" style="width:100%">
 
 </div>
