@@ -18,7 +18,7 @@
 <a href="https://www.terraform.io/"><img alt="Terraform" src="https://encore.dev/assets/resources/terraform_cover.png" width="35px" /></a>
 <a href="https://www.mysql.com/"><img alt="SQL" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="35px" /></a>
 
-### More About Me
+### More Info
 
 <a href="https://ben-sanati.github.io/"><img alt="Website" src="./img/web.png" width="33px" /></a>&ensp;
 <a href="https://www.linkedin.com/in/benjamin-sanati"><img alt="LinkedIn" src="./img/linkedin-dark.svg" width="33px" /></a>&ensp;
