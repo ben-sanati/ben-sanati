@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ben-sanati">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2000&pause=1000&multiline=true&width=500&height=87&center=true&lines=Ben+Sanati;PhD+Student+@+University+of+Edinburgh;Machine+Learning+%7C+Probability+Theory+%7C+Epistemology;" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2000&pause=1000&multiline=true&width=550&height=87&center=true&lines=Ben+Sanati;PhD+Student+@+University+of+Edinburgh;Machine+Learning+%7C+Probability+Theory+%7C+Epistemology;" alt="Typing SVG"/>
 </a>
 
 ![Alt Text](img/mario.gif)
